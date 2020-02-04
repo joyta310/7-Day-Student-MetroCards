@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Merriweather', serif;
+    
+}
+.Monday {
+    background-color: #ABE1F9;
+    color: #581845;
+    font-family: 'Merriweather', serif;
+}
+
+.Tuesday {
+    display: none;
+    background-color: #7FF985;
+    color: #F44C07;
+    font-family: 'Merriweather', serif;
+
+}
+
+.Wednesday {
+    background-color: #F0AF69;
+    color: #ff0000;
+    display: none;
+    font-family: 'Merriweather', serif;
+}
+
+.Thursday {
+    background-color: #0F287F;
+    color: #F1FA6B;
+    display: none;
+    font-family: 'Merriweather', serif;
+}
+
+.Friday {
+    background-color: #72FA6B;
+    color: #FA7D6B;
+    display: none;
+    font-family: 'Merriweather', serif;
+}
+
+.Sat {
+    background-color: #6BD3FA;
+    color: #F929F6;
+    display: none;
+    font-family: 'Lora', serif;
+}
+
+.Sun {
+    background-color: #F9F937;
+    color: #000000;
+    display: none;
+    font-family: 'Lora', serif;
+}
+
+.Info {
+    background-color: #581845;
+    color: #ffffff;
+    display: none;
+}
+marquee {
+    background-color: #F6F88E;
+}
+.pet {
+    background-color: #C70039;
+    color: #FBFB17;
+    display: none;
+}
+
+.fin {
+    background-color: #6FD0FA;
+    color: #4EC23E;
+    display: none;
+}
+img {
+    border: solid white 10px;
+}
